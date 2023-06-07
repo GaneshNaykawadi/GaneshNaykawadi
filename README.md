@@ -4,7 +4,7 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 Full-Stack .NET Developer.
 -------------------------
 
-Dynamic and skilled Full-stack .NET Developer from Pune, India with over 4 years of hands-on experience in .NET and related technologies. My expertise spans front-end and back-end development, allowing me to deliver seamless and robust solutions. Equipped with a deep understanding of front-end and back-end development, I thrive in building robust and scalable web applications. My passion for coding, combined with my problem-solving skills and dedication to clean code allow me to deliver high-quality solutions that exceed client expectations. Let's collaborate and bring your ideas to life!
+Dynamic and skilled Full-stack .NET Developer from Pune, India with over 4 years of hands-on experience in .NET and related technologies. My expertise spans front-end and back-end development, allowing me to deliver seamless and robust solutions. My passion for coding, combined with my problem-solving skills and dedication to clean code allow me to deliver high-quality solutions that exceed client expectations. Let's collaborate and bring your ideas to life!
 
 * 🌍  I'm currently lives in Pune, Maharashtra, IN.
 * 🚀  See my portfolio [here](https://www.ganeshnaykawadi.tech)
