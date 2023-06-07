@@ -10,7 +10,7 @@ I'm a dynamic and skilled Full-stack .NET Developer from Pune, India with over 4
 * 🚀  See my portfolio [here](https://www.ganeshnaykawadi.tech)
 * ✉️  You can reach me at [ganeshnaykawadi@gmail.com](mailto:ganeshnaykawadi@gmail.com)
 * 🖥️  I'm currently working at [ProError Software Solutions](https://www.proerrors.com/)
-* 🧠  I'm learning C#, Python, .NET Framework, Javascript, Angular, SQL Server, MongoDB.
+* 🧠  I'm learning C#, .NET Framework, Javascript, Angular, Python, SQL Server, MongoDB.
 * 🤝  I'm open to collaborating on .NET Projects and/or open-source projects.
 * ⚡  Fun fact: => "Programming is the closest thing we have to magic, where a few lines of code can bring imagination to life."
 
