@@ -17,7 +17,7 @@ Dynamic and skilled Full-stack .NET Developer from Pune, India with over 4 years
 <a href="https://www.github.com/ganeshnaykawadi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ganeshnaykawadi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ganeshnaykawadi&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ganeshnaykawadi&&style=flat-square" />
 </div>
 <br/>
 
