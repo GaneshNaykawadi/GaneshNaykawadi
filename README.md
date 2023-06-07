@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ganesh Naykawadi.
+Hi there!  [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ganesh Naykawadi.
 =========================================================================================================================================
 
 Full-Stack .NET Developer.
@@ -7,12 +7,12 @@ Full-Stack .NET Developer.
 I'm a dynamic and skilled Full-stack .NET Developer from Pune, India with over 4 years of hands-on experience. My expertise spans front-end and back-end development, allowing me to deliver seamless and robust solutions. Equipped with a deep understanding of front-end and back-end development, I thrive in building robust and scalable web applications. My passion for coding, combined with my problem-solving skills and dedication to clean code allow me to deliver high-quality solutions that exceed client expectations. Let's collaborate and bring your ideas to life!
 
 * 🌍  I'm currently lives in Pune, Maharashtra, IN.
-* 🚀  See my portfolio here [website link](http://www.ganeshnaykawadi.tech)
-* ✉️  You can contact me at [ganeshnaykawadi@gmail.com](mailto:ganeshnaykawadi@gmail.com)
+* 🚀  See my portfolio [here](http://www.ganeshnaykawadi.tech)
+* ✉️  You can reach me at [ganeshnaykawadi@gmail.com](mailto:ganeshnaykawadi@gmail.com)
 * 🖥️  I'm currently working at [ProError Software Solutions](http://www.proerrors.com/)
-* 🧠  I'm learning .NET Framework, Javascript, Angular, MongoDB.
-* 🤝  I'm open to collaborating on .NET Projects.
-* ⚡  Fun fact "Programming is the closest thing we have to magic, where a few lines of code can bring imagination to life."
+* 🧠  I'm learning C#, Python, .NET Framework, Javascript, Angular, SQL Server, MongoDB.
+* 🤝  I'm open to collaborating on .NET Projects and/or open-source projects.
+* ⚡  Fun fact: => "Programming is the closest thing we have to magic, where a few lines of code can bring imagination to life."
 
 <a href="https://www.github.com/ganeshnaykawadi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ganeshnaykawadi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
