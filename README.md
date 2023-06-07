@@ -15,8 +15,10 @@ Dynamic and skilled Full-stack .NET Developer from Pune, India with over 4 years
 * ⚡  Fun fact: => "Programming is the closest thing we have to magic, where a few lines of code can bring imagination to life."
 
 <a href="https://www.github.com/ganeshnaykawadi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ganeshnaykawadi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+src="https://img.shields.io/github/followers/ganeshnaykawadi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ganeshnaykawadi&&style=flat-square" align="center" />
+</div>
 <br/>
 
 ### Skills
@@ -96,10 +98,4 @@ src="https://img.shields.io/github/followers/ganeshnaykawadi?logo=github&style=f
 
 <br/>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31gsjpzjrpwe4nmss4v7xsob6tv4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ganeshnaykawadi&&style=flat-square" align="center" />
-</div>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31gsjpzjrpwe4nmss4v7xsob6tv4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
