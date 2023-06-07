@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/ganeshnaykawadi?logo=github&style=f
 
 ### Skills
 
-<table><tr><td valign="top" width="33%" border="none">
+<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
