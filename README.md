@@ -56,6 +56,8 @@ src="https://img.shields.io/github/followers/ganeshnaykawadi?logo=github&style=f
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 </div>
 </td></tr></table>  
 
@@ -91,6 +93,10 @@ src="https://img.shields.io/github/followers/ganeshnaykawadi?logo=github&style=f
 <a href="http://www.github.com/ganeshnaykawadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshnaykawadi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/ganeshnaykawadi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshnaykawadi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<br/>
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31gsjpzjrpwe4nmss4v7xsob6tv4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>
 
