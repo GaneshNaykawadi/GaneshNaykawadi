@@ -93,12 +93,6 @@ src="https://img.shields.io/github/followers/ganeshnaykawadi?logo=github&style=f
 
 <a href="https://github.com/ganeshnaykawadi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshnaykawadi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<br/>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31gsjpzjrpwe4nmss4v7xsob6tv4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
-
-<br/>
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ganeshnaykawadi&&style=flat-square" align="center" />
 </div>
