@@ -18,6 +18,9 @@ Dynamic and skilled Full-stack .NET Developer from Pune, India with over 4 years
 src="https://img.shields.io/github/followers/ganeshnaykawadi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  
 <br/>
 
+### Roadmaps
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/658115be5145316d25253c9a?variant=dark" alt="roadmap.sh"/></a>
+
 ### Skills
 
 <table><tr><td valign="top" width="33%">
