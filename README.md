@@ -1,13 +1,13 @@
 Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ganesh Naykawadi.
 =========================================================================================================================================
 
-Full-Stack .NET Developer.
+Full-Stack .NET Developer. 👨‍💻 🧑‍💻
 -------------------------
 
 Dynamic and skilled Full-stack .NET Developer from Pune, India with over 4 years of hands-on experience in .NET and related technologies. My expertise spans front-end and back-end development, allowing me to deliver seamless and robust solutions. My passion for coding, combined with my problem-solving skills and dedication to clean code allow me to deliver high-quality solutions that exceed client expectations. Let's collaborate and bring your ideas to life!
 
 * 🌏  I'm currently lives in Pune, Maharashtra, IN.
-* 🚀  See my portfolio [here](https://www.ganeshnaykawdi.online) 
+* 🚀  See my portfolio [here](https://www.ganeshnaykawdi.online) 👈
 * ✉️  You can reach me at [ganeshnaykawadi@gmail.com](mailto:ganeshnaykawadi@gmail.com)
 * 🖥️  I'm currently working at [ProError Software Solutions](https://www.proerrors.com/)
 * 🧠  I'm learning C#, .NET Framework, Javascript, Angular, Python, SQL Server, MongoDB.
@@ -97,5 +97,5 @@ src="https://img.shields.io/github/followers/ganeshnaykawadi?logo=github&style=f
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/658115be5145316d25253c9a?variant=dark" alt="roadmap.sh"/></a>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ganeshnaykawadi&&style=flat-square" align="center" /> 👁
+ 👁 <img src="https://komarev.com/ghpvc/?username=ganeshnaykawadi&&style=flat-square" align="center" />
 </div>
