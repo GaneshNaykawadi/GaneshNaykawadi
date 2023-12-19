@@ -1,7 +1,7 @@
-Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ganesh Naykawadi.
+Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ganesh Naykawadi. 🧔‍♂️
 =========================================================================================================================================
 
-Full-Stack .NET Developer. 👨‍💻 🧑‍💻
+Full-Stack .NET Developer. 👨‍💻
 -------------------------
 
 Dynamic and skilled Full-stack .NET Developer from Pune, India with over 4 years of hands-on experience in .NET and related technologies. My expertise spans front-end and back-end development, allowing me to deliver seamless and robust solutions. My passion for coding, combined with my problem-solving skills and dedication to clean code allow me to deliver high-quality solutions that exceed client expectations. Let's collaborate and bring your ideas to life!
