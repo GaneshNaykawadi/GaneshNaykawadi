@@ -7,7 +7,7 @@ Full-Stack .NET Developer.
 Dynamic and skilled Full-stack .NET Developer from Pune, India with over 4 years of hands-on experience in .NET and related technologies. My expertise spans front-end and back-end development, allowing me to deliver seamless and robust solutions. My passion for coding, combined with my problem-solving skills and dedication to clean code allow me to deliver high-quality solutions that exceed client expectations. Let's collaborate and bring your ideas to life!
 
 * 🌍  I'm currently lives in Pune, Maharashtra, IN.
-* 🚀  See my portfolio [here](https://www.ganeshnaykawdi.online)
+* 🚀  See my portfolio [here](https://www.ganeshnaykawdi.online) 👀
 * ✉️  You can reach me at [ganeshnaykawadi@gmail.com](mailto:ganeshnaykawadi@gmail.com)
 * 🖥️  I'm currently working at [ProError Software Solutions](https://www.proerrors.com/)
 * 🧠  I'm learning C#, .NET Framework, Javascript, Angular, Python, SQL Server, MongoDB.
@@ -93,7 +93,7 @@ src="https://img.shields.io/github/followers/ganeshnaykawadi?logo=github&style=f
 
 <a href="https://github.com/ganeshnaykawadi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshnaykawadi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Learning in Roadmap.sh
+### 👨‍💻 Learning in Roadmap.sh ⏰
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/658115be5145316d25253c9a?variant=dark" alt="roadmap.sh"/></a>
 
 <div align="center">
