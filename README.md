@@ -94,7 +94,7 @@ src="https://img.shields.io/github/followers/ganeshnaykawadi?logo=github&style=f
 <a href="https://github.com/ganeshnaykawadi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshnaykawadi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### 👨‍💻 Learning in Roadmap.sh ⏰
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/658115be5145316d25253c9a?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/658115be5145316d25253c9a?variant=dark&roadmaps=aspnet-core%2Cfull-stack%2Cangular" alt="roadmap.sh"/></a>
 
 <div align="center">
  👁 <img src="https://komarev.com/ghpvc/?username=ganeshnaykawadi&&style=flat-square" align="center" />
