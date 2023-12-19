@@ -97,5 +97,5 @@ src="https://img.shields.io/github/followers/ganeshnaykawadi?logo=github&style=f
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/658115be5145316d25253c9a?variant=dark" alt="roadmap.sh"/></a>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ganeshnaykawadi&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ganeshnaykawadi&&style=flat-square" align="center" /> 👁
 </div>
